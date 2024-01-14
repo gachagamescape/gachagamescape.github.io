@@ -23,7 +23,10 @@ features:
     details: 了解不同类型剧情占比
   - icon: ✍️
     title: 运营历史
-    details: 通过时间线查看游戏运营历史，了解运营态度
+    details: 通过时间线查看游戏运营历史，了解运营态度变化
+  - icon: 💬
+    title: 公开透明
+    details: 列举事实，公开讨论，不作评价，自行判断
 ---
 
 <style>
