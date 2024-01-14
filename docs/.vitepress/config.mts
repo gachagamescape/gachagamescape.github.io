@@ -23,6 +23,7 @@ export default defineConfig({
         items: [
           { text: '蔚蓝档案', link: '/蔚蓝档案' },
           { text: 'ブルーアーカイブ(碧蓝档案)', link: '/ブルーアーカイブ' },
+          { text: '尘白禁区', link: '/尘白禁区' },
         ]
       }
     ],
