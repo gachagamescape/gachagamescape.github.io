@@ -5,7 +5,7 @@ layout: home
 hero:
   name: "GachagameScape"
   text: "男性向后宫手游\n批评空间"
-  tagline: "男性向后宫手游爱好者的游戏批评"
+  tagline: "男性向后宫手游爱好者的手游目录"
   actions:
     - theme: brand
       text: 开始阅读
