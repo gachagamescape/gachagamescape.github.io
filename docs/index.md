@@ -4,23 +4,26 @@ layout: home
 
 hero:
   name: "GachagameScape"
-  text: "男性向手游批评空间"
-  tagline: "TODO:"
+  text: "男性向后宫手游\n批评空间"
+  tagline: "男性向后宫手游爱好者的游戏批评"
   actions:
     - theme: brand
-      text: Markdown Examples
-      link: /markdown-examples
+      text: 开始阅读
+      link: /开始阅读
     - theme: alt
-      text: API Examples
-      link: /api-examples
+      text: 投稿
+      link: /投稿须知
 
 features:
-  - title: Feature A
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: Feature B
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: Feature C
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
+  - icon: 🏷️
+    title: 标签
+    details: 通过标签快速排雷，拒绝缅北二游
+  - icon: 📖
+    title: 剧情分类
+    details: 了解不同类型剧情占比
+  - icon: ✍️
+    title: 运营历史
+    details: 通过时间线查看游戏运营历史，了解运营态度
 ---
 
 <style>
