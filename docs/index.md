@@ -12,7 +12,7 @@ hero:
       link: /开始阅读
     - theme: alt
       text: 投稿
-      link: /投稿须知
+      link: /投稿
 
 features:
   - icon: 🏷️
