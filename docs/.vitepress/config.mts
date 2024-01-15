@@ -21,6 +21,7 @@ export default defineConfig({
       {
         text: '游戏列表',
         items: [
+          { text: 'グランブルーファンタジー(碧蓝幻想)', link: '/グランブルーファンタジー(碧蓝幻想)' },
           { text: 'ブルーアーカイブ(碧蓝档案)', link: '/ブルーアーカイブ' },
           { text: '尘白禁区', link: '/尘白禁区' },
           { text: '战双帕弥什', link: '/战双帕弥什' },
