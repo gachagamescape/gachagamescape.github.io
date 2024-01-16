@@ -26,6 +26,7 @@ export default defineConfig({
           { text: '尘白禁区', link: '/尘白禁区' },
           { text: '战双帕弥什', link: '/战双帕弥什' },
           { text: '蔚蓝档案', link: '/蔚蓝档案' },
+          { text: '胜利女神：妮姬', link: '/Nikke' },
         ]
       }
     ],
