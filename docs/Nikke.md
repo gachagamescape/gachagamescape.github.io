@@ -39,13 +39,10 @@ https://nikke-en.com/
 
 ## 运营历史
 
-### 2023
+### 2022
 2022年12月6日，玩家社区指责由于腾讯的入股，中国监管机构对即将推出的游戏内容进行审查，导致了立绘的和谐。
 相对于内测版本，上线版本露菲（Rupee）的蹲姿有所变化，装着则增加了一条裙子。
 [[GamerBraves 报道][gamerbraves]]
-
-2023年10月，腾讯再次收购 NIKKE 开发商 Shift Up 股份，持股达 24% 以上。
-[[GameLook 报道][gamelook]]
 
 
 ## 标签解释
@@ -73,4 +70,3 @@ https://nikke-en.com/
 [梅登]: https://www.bilibili.com/video/BV1yp4y1R7aG/?t=890
 <!-- 运营历史 -->
 [gamerbraves]: https://www.gamerbraves.com/nikke-goddess-of-victory-players-blame-china-for-censorship-despite-the-fact-the-game-isnt-available-there/
-[gamelook]: http://www.gamelook.com.cn/2023/10/530334
