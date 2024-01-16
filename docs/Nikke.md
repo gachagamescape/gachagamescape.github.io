@@ -38,9 +38,6 @@ https://nikke-en.com/
 
 
 ## 运营历史
-### 2024
-2024年1月7日，Nikke NPC 机娘疑似抄袭。2023-12-31 官方在 X 上联系画师道歉，2024-1-7 游戏中已修改立绘。
-[[画师 X][neco_person]]
 
 ### 2023
 2023年10月，腾讯再次收购 NIKKE 开发商 Shift Up 股份，持股达 24% 以上。
@@ -71,5 +68,4 @@ https://nikke-en.com/
 [诺亚尔]: https://www.bilibili.com/video/BV1jh4y1473U/?t=857
 [梅登]: https://www.bilibili.com/video/BV1yp4y1R7aG/?t=890
 <!-- 运营历史 -->
-[neco_person]: https://twitter.com/neco_person/status/1741456188615860440
 [gamelook]: http://www.gamelook.com.cn/2023/10/530334
